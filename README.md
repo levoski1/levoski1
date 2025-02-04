@@ -11,7 +11,7 @@ Software Developer | Problem-Solver | Thrill-Seeker - I'm a passionate developer
 - ✍️ Digital Marketer | Solving Real life problem - gearing up to share valuable insights with the global coding community.
 
 ## My Website
-- [Levicode](http://localhost:8000)
+- [Levicode](https://resume-sz3f.onrender.com/)
 
 
 ## Tech Stack
