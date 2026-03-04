@@ -1,71 +1,82 @@
-# 👋 Ugwoke Levi – Full Stack Software Developer
+# 👋 Ugwoke Levi – Backend Software Developer
 
-**Crafting elegant solutions to complex problems | Building scalable web experiences | Tech enthusiast & problem solver**
+**Designing scalable server architectures | Building secure APIs | Turning complex logic into reliable systems**
 
 ---
 
 ## 🎯 About Me
 
-I'm a **passionate Full Stack Developer** with a proven track record in creating high-performance web applications. My mission is to bridge the gap between beautiful design and robust functionality, delivering solutions that drive real business value.
+I’m a **Backend Software Developer** focused on building scalable, secure, and high-performance server-side systems. I specialize in designing robust architectures, developing clean APIs, and ensuring applications run efficiently in production environments.
 
-- 🎓 **Bachelor's Degree** in Accountancy from [FUNAI](https://funai.edu.ng/) – Federal University Ndufu Alike Ikwo
-- 🏅 **ALX Software Engineer Graduate** (2023) – Specialized in Full Stack Web Development & Open Source Contribution
-- 💼 **Digital Marketer & Problem Solver** – Combining technical expertise with strategic business thinking
-- 🌍 **Location**: Open to remote opportunities globally
+**My goal:** Build systems that are reliable, maintainable, and built to scale.
+
+- 🎓 **Bachelor’s Degree** in Accountancy – [FUNAI](https://funai.edu.ng/) – Federal University Ndufu Alike Ikwo  
+- 🏅 **ALX Software Engineering Graduate (2023)** – Backend-focused development & system architecture  
+- 💼 Strong understanding of business logic, system design & data flow  
+- 🌍 Open to remote backend opportunities globally  
 
 ---
 
 ## 🛠️ Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=js,html,css,py,git,flask,django,nginx,react,postgresql,docker)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/) 
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/) 
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/) 
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/) 
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/) 
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/) 
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) 
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  
 
-**Frontend:** JavaScript • React • HTML5 • CSS3 • Tailwind CSS  
-**Backend:** Python • Django • Flask
-• Next js • Nginx  
-**Database:** PostgreSQL  
-**Tools & DevOps:** Git • Docker  
+**Backend:** Python • Django • Flask • Node.js • Express • Nginx  
+**Databases:** PostgreSQL  
+**DevOps & Tools:** Docker • Git • CI/CD  
+**API Development:** REST • Authentication • Middleware • Error Handling  
+**Architecture:** MVC • Microservices & Monolithic  
 
 ---
 
 ## 🚀 What I Do
 
-✨ **Full Stack Web Development** – From concept to deployment  
-🎨 **Modern UI/UX Implementation** – React + Tailwind CSS for stunning interfaces  
-🔧 **Backend Architecture** – Django & Flask for scalable server solutions  
-📦 **Database Design** – PostgreSQL for efficient data management  
-🌐 **Responsive Design** – Mobile-first approach for all devices  
-🔄 **API Development** – RESTful APIs with clean, maintainable code  
+- 🔧 **Backend Architecture & System Design** – Scalable server structures, clean folder organization  
+- 🛠️ **API Development & Integration** – Secure, well-documented REST APIs with proper validation  
+- 🗄️ **Database Design & Optimization** – Efficient PostgreSQL schemas, indexing, query optimization  
+- 🔐 **Authentication & Security** – Environment variables, secure credentials, middleware protection  
+- 🚀 **Deployment & Production Setup** – Dockerized apps, Nginx configs, environment-safe deployments  
+- ⚙️ **Error Handling & Reliability** – Async error handling, logging, uncaught exceptions, graceful shutdown  
 
 ---
 
-## 💡 Currently Learning & Exploring
+## 💡 Currently Exploring
 
-- 🔍 Advanced React patterns (Hooks, Context, Performance Optimization)
-- 📊 Advanced PostgreSQL & Database Optimization
-- 🏗️ Microservices Architecture & Deployment
-- ☁️ Cloud Infrastructure (AWS, Vercel, Render)
-
----
-
-## 🏆 Highlights & Achievements
-
-- ✅ Successfully completed **ALX Software Engineering Program** (2023)
-- 🌟 Contributed to **open-source projects** fostering community collaboration
-- 💻 Built and deployed **full-stack web applications** serving real users
-- 🎯 Solved complex technical challenges using modern development practices
+- Advanced backend patterns & clean architecture  
+- Microservices & distributed systems  
+- Advanced PostgreSQL optimization  
+- Cloud infrastructure & scalable deployments  
+- Performance tuning & monitoring  
 
 ---
 
-## 🔗 My Portfolio & Online Presence
+## 🏆 Highlights
+
+- ✅ Completed ALX Software Engineering Program (Backend-Focused Projects)  
+- 💻 Built and deployed production-ready backend systems  
+- 🌍 Contributed to open-source projects  
+- 🎯 Strong focus on clean code, scalability, and maintainability  
+
+---
+
+## 🔗 Online Presence
 
 | Platform | Link |
 |----------|------|
-| 🌐 **Personal Website** | [Levicode Portfolio](https://resume-sz3f.onrender.com/) |
-| 💼 **LinkedIn** | [@levi-soromto](https://www.linkedin.com/in/levi-soromto) |
-| 𝕏 **Twitter/X** | [@lsoromto](https://x.com/lsoromto) |
-| 📺 **YouTube** | [@levisoromto9414](https://www.youtube.com/@levisoromto9414) |
-| 📷 **Instagram** | [@levoski1](https://www.instagram.com/levoski1/) |
-| 👥 **Facebook** | [levi-soromto](https://www.facebook.com/levisoromto1?mibextid=ZbW) |
+| 🌐 Personal Website | [Levicode Portfolio](https://resume-sz3f.onrender.com/) |
+| 💼 LinkedIn | [@levi-soromto](https://www.linkedin.com/in/levi-soromto) |
+| 𝕏 Twitter/X | [@lsoromto](https://x.com/lsoromto) |
+| 📺 YouTube | [@levisoromto9414](https://www.youtube.com/@levisoromto9414) |
+| 📷 Instagram | [@levoski1](https://www.instagram.com/levoski1/) |
+| 👥 Facebook | [levi-soromto](https://www.facebook.com/levisoromto1?mibextid=ZbW) |
 
 ---
 
@@ -75,15 +86,17 @@ I'm a **passionate Full Stack Developer** with a proven track record in creating
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let’s Connect
 
-I'm always interested in:
-- 🤝 Collaborating on exciting web development projects
-- 💡 Discussing innovative tech solutions
-- 🎯 Sharing knowledge with the developer community
-- 🚀 Building products that make a difference
+I’m interested in:
 
-**📧 Reach out to me** – Let's discuss how I can help bring your ideas to life!
+- Backend engineering roles  
+- API-focused projects  
+- System architecture discussions  
+- Building scalable products  
+- Collaborating on serious engineering challenges  
+
+**📧 Reach out to me** – Let’s build reliable systems together!  
 
 ---
 
@@ -91,6 +104,6 @@ I'm always interested in:
 
 ### ⭐ If you find my work interesting, feel free to star my repositories and connect with me!
 
-**"Code is poetry written for machines but read by humans."** – Let's create something amazing together! 🚀
+**"Good backend code isn’t just functional — it’s reliable, secure, and built for growth."**
 
 </div>
